@@ -1,38 +1,158 @@
-.App {
-  text-align: center;
+.inner-img{
+  width: 50px;
+}
+.header2{
+  display: none;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.inner-block1{
+  display: flex;
+  flex-direction: row;
+  padding: 30px;
+  padding-left: 40px;
+  padding-top: 50px;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.inner-block2{
+  display: flex;
+  flex-direction: row;
+  margin-top: -35px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.inner-block1-1{
+  padding-top: 20px;
+ width: 47%;
+ padding-left: 20px;
+ padding-right: 20px;
+ padding-bottom: 20px;
+}
+
+.inner-block1-4{
+  padding-top: 20px;
+ width: 21%;
+ padding-left: 20px;
+ padding-right: 20px;
+margin-left: -10px;
+}
+
+
+.inner-block1-2{
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  width: 23%;
+  height: 300px;
+  background-color: #fbfbfb;
+  padding-left:40px;
+  padding-right: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  transition:transform 0.5s linear;
+ }
+
+ .inner-block1-3{
+  display: flex;
+  flex-direction: column;
+  width: 21.7%;
+  height: 300px;
+  padding-left: 40px;
+  padding-right: 20px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  transition: transform 0.5s linear;
+ }
+ 
+
+ #hover-content {
+  visibility: hidden;
+  opacity: 0;
+  transition: visibility 0s, opacity 1s linear;
+}
+.inner-block1-2:hover #hover-content {
+visibility: visible;
+opacity: 1;
 }
 
-.App-link {
-  color: #61dafb;
+.inner-block1-3:hover #hover-content {
+  visibility: visible;
+opacity: 1;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.inner-block1-2:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+  background-color: white;
+  border: 3px solid #fcfcfc;
+  
   }
-  to {
-    transform: rotate(360deg);
-  }
+  .inner-block1-3:hover {
+    transform: scale(1.1);
+    cursor: pointer;
+    border: 3px solid #fcfcfc;
+    }
+
+    .header1{
+      font-size: 45px;
+      width: 80%;
+      font-weight: 600;
+    }
+
+    .text1{
+      font-weight: 300;
+      width: 85%;
+      font-size: 17px;
+    }
+    .text2{
+      font-weight: 300;
+      font-size:25px;
+      width: 70%;
+    }
+    .caro{
+      visibility: hidden;
+      display: none;
+    }
+
+
+    @media only screen and (max-width: 600px) {
+     .caro{
+      display: block;
+     }
+
+
+.inner-block2{
+ display: none;
 }
+
+
+.inner-block1-4{
+display: none;
+}
+
+
+.inner-block1-2{
+display: none;
+ }
+
+ .inner-block1-3{
+display: none;
+ }
+.header2{
+  display: block;
+  font-weight: 500;
+  font-size: 16px;
+}
+.header1{
+  font-size: 30px;
+  width: 100%;
+  margin-top: -5px;
+}
+
+.inner-block1-1{
+  width: 100%;
+  }
+  .text1{
+    font-size: 16px;
+    width: 100%;
+    margin-top: -10px;
+  }
+  
+    }

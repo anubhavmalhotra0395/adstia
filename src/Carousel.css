@@ -1,0 +1,35 @@
+.carousel-wrapper {
+  overflow-x: scroll;
+  -webkit-overflow-scrolling: touch;
+  scroll-snap-type: x proximity;
+  height: 100vh;
+}
+
+.carousel {
+  display: flex;
+  flex-wrap: nowrap;
+  scroll-snap-align: start;
+  transition: transform 0.3s ease-in-out;
+}
+
+.item {
+  min-width: 240px !important;
+padding: 20px;
+margin-right:10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.mob-img{
+  width: 70px;
+}
+
+.head1{
+  font-size: 14px;
+}
+
+.head2{
+  font-size: 12px;
+}
