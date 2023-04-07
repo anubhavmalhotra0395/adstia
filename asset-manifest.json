@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/anubhavmalhotra0395/adstia.git/static/css/main.b9aa84aa.css",
-    "main.js": "/anubhavmalhotra0395/adstia.git/static/js/main.31e3c40f.js",
-    "static/js/787.44b171e1.chunk.js": "/anubhavmalhotra0395/adstia.git/static/js/787.44b171e1.chunk.js",
-    "index.html": "/anubhavmalhotra0395/adstia.git/index.html",
-    "main.b9aa84aa.css.map": "/anubhavmalhotra0395/adstia.git/static/css/main.b9aa84aa.css.map",
-    "main.31e3c40f.js.map": "/anubhavmalhotra0395/adstia.git/static/js/main.31e3c40f.js.map",
-    "787.44b171e1.chunk.js.map": "/anubhavmalhotra0395/adstia.git/static/js/787.44b171e1.chunk.js.map"
+    "main.css": "/github.com/anubhavmalhotra0395/adstia.git/static/css/main.b9aa84aa.css",
+    "main.js": "/github.com/anubhavmalhotra0395/adstia.git/static/js/main.625900ec.js",
+    "static/js/787.44b171e1.chunk.js": "/github.com/anubhavmalhotra0395/adstia.git/static/js/787.44b171e1.chunk.js",
+    "index.html": "/github.com/anubhavmalhotra0395/adstia.git/index.html",
+    "main.b9aa84aa.css.map": "/github.com/anubhavmalhotra0395/adstia.git/static/css/main.b9aa84aa.css.map",
+    "main.625900ec.js.map": "/github.com/anubhavmalhotra0395/adstia.git/static/js/main.625900ec.js.map",
+    "787.44b171e1.chunk.js.map": "/github.com/anubhavmalhotra0395/adstia.git/static/js/787.44b171e1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b9aa84aa.css",
-    "static/js/main.31e3c40f.js"
+    "static/js/main.625900ec.js"
   ]
 }
