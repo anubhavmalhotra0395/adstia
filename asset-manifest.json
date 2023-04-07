@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/anubhavmalhotra0395/adstia.git/static/css/main.b9aa84aa.css",
-    "main.js": "/anubhavmalhotra0395/adstia.git/static/js/main.31e3c40f.js",
+    "main.css": "/anubhavmalhotra0395/adstia.git/static/css/main.83e0997a.css",
+    "main.js": "/anubhavmalhotra0395/adstia.git/static/js/main.d01b9c80.js",
     "static/js/787.44b171e1.chunk.js": "/anubhavmalhotra0395/adstia.git/static/js/787.44b171e1.chunk.js",
     "index.html": "/anubhavmalhotra0395/adstia.git/index.html",
-    "main.b9aa84aa.css.map": "/anubhavmalhotra0395/adstia.git/static/css/main.b9aa84aa.css.map",
-    "main.31e3c40f.js.map": "/anubhavmalhotra0395/adstia.git/static/js/main.31e3c40f.js.map",
+    "main.83e0997a.css.map": "/anubhavmalhotra0395/adstia.git/static/css/main.83e0997a.css.map",
+    "main.d01b9c80.js.map": "/anubhavmalhotra0395/adstia.git/static/js/main.d01b9c80.js.map",
     "787.44b171e1.chunk.js.map": "/anubhavmalhotra0395/adstia.git/static/js/787.44b171e1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b9aa84aa.css",
-    "static/js/main.31e3c40f.js"
+    "static/css/main.83e0997a.css",
+    "static/js/main.d01b9c80.js"
   ]
 }
