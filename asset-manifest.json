@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/adstia/static/css/main.83e0997a.css",
-    "main.js": "/adstia/static/js/main.bce046bc.js",
+    "main.js": "/adstia/static/js/main.f5fb0e80.js",
     "static/js/787.a5a00b74.chunk.js": "/adstia/static/js/787.a5a00b74.chunk.js",
     "index.html": "/adstia/index.html",
     "main.83e0997a.css.map": "/adstia/static/css/main.83e0997a.css.map",
-    "main.bce046bc.js.map": "/adstia/static/js/main.bce046bc.js.map",
+    "main.f5fb0e80.js.map": "/adstia/static/js/main.f5fb0e80.js.map",
     "787.a5a00b74.chunk.js.map": "/adstia/static/js/787.a5a00b74.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83e0997a.css",
-    "static/js/main.bce046bc.js"
+    "static/js/main.f5fb0e80.js"
   ]
 }
