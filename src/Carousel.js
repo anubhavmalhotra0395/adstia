@@ -12,7 +12,7 @@ function Carousel() {
 
   useEffect(() => {
     function handleScroll() {
-      setScrollPos(window.pageYOffset+300);     
+      setScrollPos(window.pageYOffset);     
     }
 
     window.addEventListener('scroll', handleScroll);
